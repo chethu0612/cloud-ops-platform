@@ -1,7 +1,5 @@
 # cloud-ops-platform
 
-# cloud-ops-platform
-
 A learning project: a small Cloud Operations API that I am building to practise Linux, Python, FastAPI, Docker, CI/CD and AWS.
 
 ## Status
